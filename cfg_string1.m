@@ -5,7 +5,7 @@
   
  % G describes the grammar
  % T describes a finite set of terminal symbols.
- %  V describes a finite set of non-terminal symbols
+ % V describes a finite set of non-terminal symbols
  % P describes a set of production rules
  % S is the start symbol.
 %--------------------------------------------------------------------------
