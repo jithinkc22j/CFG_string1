@@ -25,7 +25,7 @@ Examples:
  4. Given S= 'b', the function should return 1. Note that 'a' does not need to occur in S.
  5. Given S= 'abba', the function should return 0.
  
- soln: 
+ Solution:
     
      string generating function : CFG_string1.m 
      
